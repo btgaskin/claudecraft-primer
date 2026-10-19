@@ -1,0 +1,6 @@
+interface:
+  display_name: "Claudecraft Primer"
+  short_description: "Structured assessment of evidence and uncertainty"
+  default_prompt: "Use $claudecraft-primer to assess this question at standard depth and keep the answer concise."
+policy:
+  allow_implicit_invocation: false
